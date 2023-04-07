@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mukit Hasan
 - 👀 I’m interested in Python Backend Devloper
-- 🌱 I’m currently learning Django Web Framework 
+- 🌱 I’m currently learning Django Web Framework with django-rest-framework
 - 📫 How to reach me mukithasan58@gmail.con
